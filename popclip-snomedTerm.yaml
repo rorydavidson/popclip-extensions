@@ -1,0 +1,7 @@
+#popclip
+name: SNOMED Term Lookup
+icon: SCTterm
+url: https://browser.ihtsdotools.org/snowstorm/snomed-ct/MAIN/concepts?term=***&isPublished=true&includeLeafFlag=false&form=inferred&offset=0&limit=10
+
+# DO NOT SELECT THIS TEXT:
+# This is a PopClip snippet that searches for the selected text responding with a json result list (no way to do this in the browser yet)

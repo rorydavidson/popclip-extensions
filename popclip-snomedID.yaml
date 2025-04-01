@@ -1,0 +1,7 @@
+#popclip
+name: SNOMED ID Lookup
+icon: SCTID
+url: https://browser.ihtsdotools.org/?perspective=full&conceptId1=***
+
+# DO NOT SELECT THIS TEXT:
+# This is a PopClip snippet that opens the SNOMED CT browser for the selected text.
