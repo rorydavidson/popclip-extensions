@@ -1,0 +1,7 @@
+# This is a PopClip extension that opens the SNOMED CT browser for the selected text.
+
+#popclip
+name: SNOMED Concept
+icon: SI
+url: https://browser.ihtsdotools.org/?perspective=full&conceptId1=***
+
